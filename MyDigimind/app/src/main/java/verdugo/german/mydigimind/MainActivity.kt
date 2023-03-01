@@ -1,4 +1,5 @@
 package verdugo.german.mydigimind
+package rojo.ader.digimind
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView
